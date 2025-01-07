@@ -1,0 +1,14 @@
+tank_drive_controller:
+  ros__parameters:
+    front_wheel_diameter: 0.186
+    rear_wheel_diameter: 0.148
+    wheel_separation: 0.515
+    wheel_base: 0.700
+    max_linear_velocity: 1.0
+    max_angular_velocity: 2.0
+    max_linear_acceleration: 1.0
+    max_angular_acceleration: 1.5
+    max_linear_jerk: 0.5
+    max_angular_jerk: 0.75
+    odom_frequency: 20
+    motor_command_frequency: 50

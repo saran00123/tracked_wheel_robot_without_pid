@@ -1,0 +1,6 @@
+tank_drive_controller:
+  ros__parameters:
+    front_wheel_diameter: 0.186
+    rear_wheel_diameter: 0.148
+    wheel_separation: 0.515
+    wheel_base: 0.700
